@@ -1,0 +1,10 @@
+<manifest package="dev.xesam.applibsdk"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <application>
+
+        <activity
+            android:name="dev.xesam.samplesdk.UpdatePrompt"
+            android:theme="@style/Theme.AppCompat.Light.Dialog" />
+    </application>
+</manifest>
